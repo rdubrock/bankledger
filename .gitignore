@@ -1,3 +1,5 @@
+# buffers
+*.swp
 # Logs
 logs
 *.log
